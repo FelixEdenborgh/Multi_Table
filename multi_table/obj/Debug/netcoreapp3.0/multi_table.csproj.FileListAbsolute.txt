@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\multi_table\bin\Debug\netcoreapp3.0\multi_table.exe
+C:\Users\Felix\Documents\C# Prodjects\multi_table\bin\Debug\netcoreapp3.0\multi_table.deps.json
+C:\Users\Felix\Documents\C# Prodjects\multi_table\bin\Debug\netcoreapp3.0\multi_table.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\multi_table\bin\Debug\netcoreapp3.0\multi_table.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\multi_table\bin\Debug\netcoreapp3.0\multi_table.dll
+C:\Users\Felix\Documents\C# Prodjects\multi_table\bin\Debug\netcoreapp3.0\multi_table.pdb
+C:\Users\Felix\Documents\C# Prodjects\multi_table\obj\Debug\netcoreapp3.0\multi_table.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\multi_table\obj\Debug\netcoreapp3.0\multi_table.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\multi_table\obj\Debug\netcoreapp3.0\multi_table.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\multi_table\obj\Debug\netcoreapp3.0\multi_table.dll
+C:\Users\Felix\Documents\C# Prodjects\multi_table\obj\Debug\netcoreapp3.0\multi_table.pdb
